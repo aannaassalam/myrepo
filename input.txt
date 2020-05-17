@@ -1,2 +1,4 @@
 Hey, 
 this is kinda my first checkout just like one notes but i   am too excited to checkout git so hope i may  complete this later
+
+changes have been added
